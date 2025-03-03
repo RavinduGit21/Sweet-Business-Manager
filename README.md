@@ -10,10 +10,17 @@ The Watalappam Business Manager is a graphical user interface (GUI) application 
 ## Features
 
  **Order Management**: Add, update, and delete orders.
+- **Date Filtering**: Filter orders based on date ranges
 - **Receipt Generation**: Generate and save receipts as image files.
 - **Report Dashboard**: Visualize sales data with bar charts and pie charts.
-- **Dark Mode**: Switch between light and dark themes.
 - **Price Editing**: Edit the prices of 500g and 1kg Watalappam.
+- **Reset Filter**: Reset the date filter to display all orde
+- **Dark Mode**: Switch between light and dark themes.
+
+## AI-Generated Software
+
+This software was AI-assisted using ChatGPT, DeepSeek, QWENlm, and Claude to improve its structure, features, and functionality.
+
 
 ## Installation
 
