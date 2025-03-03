@@ -3,6 +3,8 @@
 
 The Watalappam Business Manager is a graphical user interface (GUI) application designed to help manage orders for a Watalappam dessert business. It allows users to add, update, delete, and generate receipts for orders. The application also includes a report dashboard to visualize sales data.
 
+![App Screenshot](software.png)
+
 
 
 
